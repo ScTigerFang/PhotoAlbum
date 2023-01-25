@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "ts-node": "^10.9.1"
+  },
+  "name": "photoalbum",
+  "description": "This Project is originally created to solve the following problem provided by Lean Technologies.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^29.4.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScTigerFang/PhotoAlbum.git"
+  },
+  "author": "Daniel Beals",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScTigerFang/PhotoAlbum/issues"
+  },
+  "homepage": "https://github.com/ScTigerFang/PhotoAlbum#readme"
+}
